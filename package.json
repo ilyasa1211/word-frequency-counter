@@ -1,0 +1,25 @@
+{
+  "name": "word-frequency-counter",
+  "version": "1.0.0",
+  "description": "Helper for word, allowing to get how much number of word occurred",
+  "main": "dist/index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js --word \"The concept of time dilation in physics is fascinating. It refers to the difference in the passage of time between observers in different gravitational fields or moving at different speeds. This phenomenon has been verified by experiments and is a key principle in theories like Einstein's theory of relativity.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiapaLupa/word-frequency-counter.git"
+  },
+  "keywords": [
+    "word",
+    "frequency",
+    "counter"
+  ],
+  "author": "SiapaLupa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiapaLupa/word-frequency-counter/issues"
+  },
+  "homepage": "https://github.com/SiapaLupa/word-frequency-counter#readme"
+}
